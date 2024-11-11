@@ -1,0 +1,27 @@
+Dye,SMILES,Dye_fullname
+MB,CN(C)C1=CC2=C(C=C1)N=C3C=CC(=[N+](C)C)C=C3S2.[Cl-],Methylene Blue 
+MO,CN(C)C1=CC=C(C=C1)N=NC2=CC=C(C=C2)S(=O)(=O)[O-].[Na+],Methyl Orange
+Tart,C1=CC(=CC=C1N=NC2C(=NN(C2=O)C3=CC=C(C=C3)S(=O)(=O)[O-])C(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+],Tartrazine
+RhB,CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=CC=CC=C4C(=O)O.[Cl-],Rhodamine B
+R6G,CCNC1=CC2=C(C=C1C)C(=C3C=C(C(=[NH+]CC)C=C3O2)C)C4=CC=CC=C4C(=O)OCC.[Cl-],Rhodamine 6G
+Am,C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])N=NC3=C4C=CC(=CC4=CC(=C3O)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+],Amaranth
+CV,CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=C(C=C3)N(C)C.[Cl-],Crystal Violet
+MaG,CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=CC=C3.CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=CC=C3.C(=O)(C(=O)O)O.C(=O)(C(=O)[O-])O.C(=O)(C(=O)[O-])O,Malachite Green
+Ab,C1=CC=C(C=C1)N=NC2=C(C3=C(C(=C(C=C3C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])N=NC4=CC=C(C=C4)[N+](=O)[O-])N)O.[Na+].[Na+],Amido Black 10b
+PonS,C1=CC(=CC=C1N=NC2=CC(=C(C=C2)N=NC3=C4C=CC(=CC4=CC(=C3O)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+],Ponceau S
+BBR,CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=C(C=C5)NC6=CC=C(C=C6)OCC.[Na+],Brilliant Blue R
+BBG,CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC(=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3C)C5=CC=C(C=C5)NC6=CC=C(C=C6)OCC)C.[Na+],Brilliant Blue G
+CB,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3NC4=CC(=C(C=C4)NC5=NC(=NC(=N5)NC6=CC=CC=C6S(=O)(=O)O)Cl)S(=O)(=O)O)S(=O)(=O)O)N,Cibacron Blue 3GA
+BPB,C1=CC=C2C(=C1)C(OS2(=O)=O)(C3=CC(=C(C(=C3)Br)O)Br)C4=CC(=C(C(=C4)Br)O)Br,Bromophenol Blue
+Erio,CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=CC=C5S(=O)(=O)[O-].[Na+].[Na+],Erioglaucine
+Reso,C1=CC2=C(C=C1O)OC3=CC(=O)C=CC3=N2,Resorufin
+DMMB,CC1=CC(=CC2=C1N=C3C(=CC(=[N+](C)C)C=C3S2)C)N(C)C.CC1=CC(=CC2=C1N=C3C(=CC(=[N+](C)C)C=C3S2)C)N(C)C.[Cl-].[Cl-].Cl[Zn]Cl,Dimethyl Methylene Blue
+BF,CC1=CC(=C(C2=CC=C(C=C2)N)C3=CC=C(C=C3)N)C=CC1=N.Cl,Basic Fuschin
+Congo,C1=CC=C2C(=C1)C(=CC(=C2N)N=NC3=CC=C(C=C3)C4=CC=C(C=C4)N=NC5=C(C6=CC=CC=C6C(=C5)S(=O)(=O)[O-])N)S(=O)(=O)[O-].[Na+].[Na+],Congo Red
+FBMBSN,C1=CC=C2C(=C1)C3=NC4=NC(=NC5=C6C(=C([N-]5)N=C7C8=C(C(=CC=C8)S(=O)(=O)[O-])C(=N7)N=C2[N-]3)C=CC=C6S(=O)(=O)[O-])C9=CC=CC=C94.[Na+].[Na+].[Cu+2],Fast Blue MBSN
+Fl,C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O,Fluorescein
+NBA,CC[N+](=C1C=CC2=NC3=C(C=C(C4=CC=CC=C43)N)OC2=C1)CC.CC[N+](=C1C=CC2=NC3=C(C=C(C4=CC=CC=C43)N)OC2=C1)CC.[O-]S(=O)(=O)[O-],Nile Blue A
+OG,C1=CC=C(C=C1)N=NC2=C(C=CC3=CC(=CC(=C32)S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Na+].[Na+],Orange G
+MG,CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=C(C=C3)[N+](C)(C)C,Methyl Green
+BCB,CC[N+](=C1C=CC2=NC3=C(C=C(C(=C3)C)N)OC2=C1)CC.CC[N+](=C1C=CC2=NC3=C(C=C(C(=C3)C)N)OC2=C1)CC.Cl[Zn-2](Cl)(Cl)Cl,Brilliant Cresyl Blue
+CS-3B,C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N=NC3=C(C=CC4=CC(=CC(=C43)S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Na+].[Na+],Crocein Scarlet 3B

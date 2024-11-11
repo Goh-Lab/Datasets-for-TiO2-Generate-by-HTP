@@ -1,0 +1,5 @@
+openpyxl==3.0.7
+rdkit==2023.9.5
+matplotlib==3.4.2
+seaborn==0.13.0
+shap==0.45.1
